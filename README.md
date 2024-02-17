@@ -11,7 +11,7 @@ Team Members:
 ## Files in the Repository
 
 1. **Code:**
-   - [`analysis_code.ipynb`](https://github.com/NaveenV110/Statistical-Analysis-of-Medical-Insurance-Claims/blob/main/analysis_code.ipynb): Jupyter Notebook containing the Python code used for data analysis.
+   - [`analysis_code.ipynb`](https://github.com/NaveenV110/Statistical-Analysis-of-Medical-Insurance-Claims/blob/main/analysis_code.ipynb): Jupyter Notebook containing the Python code used for statistical analysis and data analysis.
 2. **Reports:**
    - [`STAT5000-FinalProjectReport-UnravelingPatternsInInsuranceCharges.pdf`](https://github.com/NaveenV110/Statistical-Analysis-of-Medical-Insurance-Claims/blob/main/STAT5000-FinalProjectReport-UnravelingPatternsInInsuranceCharges.pdf): The comprehensive final report detailing our methodology, findings, and conclusions.
 
